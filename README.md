@@ -1,4 +1,4 @@
-# PointCloud to Floorplan Converter
+# InteriorCloud: A PointCloud to Floorplan Converter
 
 ## Description
 This project aims to develop a tool that converts point cloud data into detailed floorplans. Point clouds, often generated through techniques like LiDAR scanning, represent spatial data points in three-dimensional coordinate systems. Our tool seeks to process these data points to create accurate and scalable floorplans, aiding in architectural and construction projects, as well as in interior design and real estate visualization.
